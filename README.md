@@ -5,13 +5,13 @@
 ````bash
   conda create -n openai python=3.12.4 -y
 
-  ````
+````
 
-  ````bash
+````bash
   conda activate openai
 
-  ````
+````
 
-  ````bash
+````bash
   pip install -r requirement.txt
-  ````
+````
